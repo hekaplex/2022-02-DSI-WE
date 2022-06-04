@@ -7,4 +7,4 @@
 4. Find an initial dataset you want to use for Capstone
     - still looking
 5. List first idea of goals for Capstone
-    -
+    
