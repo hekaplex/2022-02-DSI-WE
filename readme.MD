@@ -1,4 +1,4 @@
-**Initial Exercise for PM Mar 21**
+**Initial Exercise for AM Jun 5**
 1. List one goal for between now and Labor Day '22
 1. List one goal for between now and Labor Day '23
 1. Choose a role for your capstone
