@@ -1,4 +1,4 @@
-H1 Initial Exercise for AM Jun 5 (Teresa Butler)
+**Initial Exercise for AM Jun 5 (Teresa Butler)**
 
 **1. List one goal for between now and Labor Day '22**
 
