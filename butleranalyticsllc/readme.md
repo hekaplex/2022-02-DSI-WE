@@ -1,8 +1,9 @@
 **Initial Exercise for AM Jun 5**
 
 1. List one goal for between now and Labor Day '22
-d
+
    Earn a badge for the capstone.
+   
    Incorporate Machine Learning, specifically Natural Language Processing as part of the capstone.
    
 2. List one goal for between now and Labor Day '23
