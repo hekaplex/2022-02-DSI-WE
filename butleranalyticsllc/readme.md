@@ -2,15 +2,20 @@
 
 # H1 Teresa's Answers
 1. List one goal for between now and Labor Day '22
+   Earn a badge for the capstone.
+   Incorporate Machine Learning, specifically Natural Language Processing as part of the capstone.
 
 1. List one goal for between now and Labor Day '23
+   Establish a consulting business.
 
 1. Choose a role for your capstone
-   1. DS Data Scientist
+   DS Data Scientist
  
 1. Find an initial dataset you want to use for Capstone
+   TBD
 
 1. List first idea of goals for Capstone
+   Sentiment Analysis type
 
 
 # Markdown Basics
