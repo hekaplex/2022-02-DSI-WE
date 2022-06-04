@@ -5,6 +5,6 @@ List one goal for between now and Labor Day '23
 Choose a role for your capstone
     - DA Data Analyst
 Find an initial dataset you want to use for Capstone
-
+    - still looking
 List first idea of goals for Capstone
     -
