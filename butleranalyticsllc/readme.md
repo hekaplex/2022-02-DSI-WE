@@ -1,61 +1,17 @@
 **Initial Exercise for AM Jun 5**
 
-# H1 Teresa's Answers
 1. List one goal for between now and Labor Day '22
+   Earn a badge for the capstone.
+   Incorporate Machine Learning, specifically Natural Language Processing as part of the capstone.
+   
+2. List one goal for between now and Labor Day '23
+   Establish a consulting business.
 
-1. List one goal for between now and Labor Day '23
-
-1. Choose a role for your capstone
-   1. DS Data Scientist
+3. Choose a role for your capstone
+   DS Data Scientist
  
-1. Find an initial dataset you want to use for Capstone
+4. Find an initial dataset you want to use for Capstone
+   TBD
 
-1. List first idea of goals for Capstone
-
-
-# Markdown Basics
----
-# H1
-## H2
-### H3
-**bold text**
-*italicized text*
-> blockquote
-1. First item
-2. Second item
-3. Third item
-- First item
-- Second item
-- Third item
-`code`
----
-[URL](https://www.example.com)
----
-![alt text for image](image.jpg)
----
----
- 
-
-# Advanced  Markdown
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-### My Great Heading {#custom-id}
-term
-: definition
-~~The world is flat.~~
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-That is so funny! :joy:
+5. List first idea of goals for Capstone
+   Sentiment Analysis 
