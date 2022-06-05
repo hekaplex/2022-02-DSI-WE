@@ -34,7 +34,4 @@
 
  "The **supreme** art of war is to *subdue* the enemy without fighting." - Sun Tzu
 
- > Bloodborne is an awesome game. You just have to "git gud" at parrying and dodging attacks 
- and be aggressive when attacking the fiendish beasts in the game. It is not like any Souls game.
- Consistent practice make you a better gamer.
- 
+ >Bloodborne is an awesome game. You just have to "git gud" at parrying and dodging attacks and be aggressive when attacking the fiendish beasts in the game. It is not like any Souls game. Consistent practice make you a better gamer.
