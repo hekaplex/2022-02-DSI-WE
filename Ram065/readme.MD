@@ -1,13 +1,14 @@
 **Initial Exercise for AM Jun 5**
 1. List one goal for between now and Labor Day '22
+ complete this class
 1. List one goal for between now and Labor Day '23
+get better job
 1. Choose a role for your capstone
    1. DA Data Analyst
-   1. DS Data Scientist
-   1. DE Data Engineer
-   1. AAD Analytic Application Developer
 1. Find an initial dataset you want to use for Capstone
+electric car 
 1. List first idea of goals for Capstone
+"undecided" 
 
 
 
