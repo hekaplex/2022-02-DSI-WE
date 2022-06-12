@@ -1,1 +1,6 @@
 Teresa: Data Scientist
+Teresa: Data Scientist
+Jim: Data Analyst
+Sally: Data Scientist
+Jerome: Data Engineer
+Charlie: Data Analyst
