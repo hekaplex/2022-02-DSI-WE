@@ -31,26 +31,26 @@ This capstone project aligns directly with the VA’s recommended implementation
 - Azure Storage
 - Azure Synapse
 - APIs
-- Beautiful Soup/Webscraping
-- Power BI Desktop /PowerQuery
+- BeautifulSoup and or Selenium Web scraping
+- Power BI Desktop/PowerQuery
 - SQL
-- Python (Pandas, Numpy, matplotlib.pyplot, etc.)
+- Python (Pandas, Numpy, matplotlib, etc.)
 - DataFlows 
 
 ### Modeling
-- Microsoft Cognitive Services: 
+- Microsoft Azure Cognitive Services: 
     - Language – process natural language with prebuilt scripts, evaluate sentiment, and learn how to recognize what users want.
     - Text Analytics API - analyzes a piece of text and returns a numeric score
 
 ### User Interface Applications
-- PowerApps
-- PowerAutomate
+- Power Apps
+- Power Automate
 - PBI Dashboards
 - PBI Reports 
-- PBI QNA
+- PBI Q&A
 
 ### Visuals (examples)
-- WordCloud
+- Word cloud
 - Filters by VA Benefits/Service
 - Scatter by Sentiment
 - Sentiment “Top” Topics (Date)
