@@ -1,6 +1,10 @@
 # Capstone Summary (Teresa Butler)
 ## Background
-The Department of Veterans Affairs Fiscal Years 2022-28 Strategic Plan has four strategic goals to achieve by 2028.  Goal #1 will be used as the problem set for this capstone: “VA consistently communicates with its customers and partners to assess and maximize performance, evaluate needs, and build long-term relationships and trust.  This goal ensures VA knows Veterans, understands their needs and how the benefits, care and services we deliver impacts their lives.”  Reference:  https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf 
+The Department of Veterans Affairs Fiscal Years 2022-28 Strategic Plan has four strategic goals to achieve by 2028.  Goal #1 will be used as the problem set for this capstone: “VA consistently communicates with its customers and partners to assess and maximize performance, evaluate needs, and build long-term relationships and trust.  This goal ensures VA knows Veterans, understands their needs and how the benefits, care and services we deliver impacts their lives.”  
+
+In order for the VA to understand how the their benefits, care and services impact the lives of the Veterans, VA decision makers should utilize social media platforms as additional resources.  Online sentiments can be used to gain an overview of the veteran's public opinion of various services and benefits and highlight those that are favorable and not favorable for possible service and/or product improvement.  
+
+Reference:  https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf 
 
 ## Target Audiences
 - Veterans Affairs Decision Makers
