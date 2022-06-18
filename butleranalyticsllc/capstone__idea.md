@@ -3,7 +3,7 @@
 The Department of Veterans Affairs Fiscal Years 2022-28 Strategic Plan has four strategic goals to achieve by 2028.  Goal #1 will be used as the problem set for this capstone: “VA consistently communicates with its customers and partners to assess and maximize performance, evaluate needs, and build long-term relationships and trust.  This goal ensures VA knows Veterans, understands their needs and how the benefits, care and services we deliver impacts their lives.”  Reference:  https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf 
 
 ## Target Audiences
-- Veterans Affairs Decisionmakers
+- Veterans Affairs Decision Makers
 - Congressional Members
 - Veterans Advocates (ie VSOs)
 - VA Customers
@@ -35,8 +35,8 @@ This capstone project aligns directly with the VA’s recommended implementation
 
 ### Modeling
 - Microsoft Cognitive Services: 
-    - SLanguage – process natural language with prebuilt scripts, evaluate sentiment, and learn how to recognize what users want.
-    - SText Analytics API - analyzes a piece of text and returns a numeric score
+    - Language – process natural language with prebuilt scripts, evaluate sentiment, and learn how to recognize what users want.
+    - Text Analytics API - analyzes a piece of text and returns a numeric score
 
 ### User Interface Applications
 - PowerApps
