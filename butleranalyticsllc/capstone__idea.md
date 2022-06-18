@@ -13,7 +13,7 @@ Reference:  https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf
 - VA Customers
 
 ## Desired Analytical Insight
-Use Sentiment Analysis to extract user/customer sentiments and mentions from social media platforms with respect to the VA’s services and benefits.  The data collected will be extracted, transformed, and analyzed to provide insights via visuals and artificial intelligence applications to be used by targeted audience. 
+Use Sentiment Analysis to extract user/customer sentiments and mentions from social media platforms with respect to the VA’s services and benefits.  The data collected will be extracted, transformed, and analyzed to provide insights using data collection, artificial intelligence cloud applications and visuals. 
 
 Analyzing online customer sentiments could allow the VA to learn what makes their customers happy or frustrated.  This could improve VA processes, products, and services by tailoring their services and benefits to meet their customers’ needs.  
 
